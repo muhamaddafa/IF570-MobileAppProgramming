@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplikasi Pertama</string>
+    <string name="helloText">Hello, %1$s</string>
+    <string name="submitName">Submit Button</string>
+    <string-array name="namaLengkap">
+        <item>Muhamad</item>
+        <item>Dafa</item>
+    </string-array>
+    <string name="tagLog">Testing</string>
+</resources>
