@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1000418806626",
+    "firebase_url": "https://belajar-firebase-dp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "belajar-firebase-dp",
+    "storage_bucket": "belajar-firebase-dp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000418806626:android:cdaf5fabf95360f4affa3b",
+        "android_client_info": {
+          "package_name": "com.muhamaddafa.belajar_crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEVPe6nSsT2Sg5LwtkDqidUci8_hPxwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
